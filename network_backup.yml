@@ -1,6 +1,6 @@
 ---
 - name: BACKUP ROUTER CONFIGURATIONS
-  hosts: all
+  hosts: cisco
   gather_facts: no
 
   tasks:
